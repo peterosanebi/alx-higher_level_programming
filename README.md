@@ -1,1 +1,1 @@
-This repo contains the task on ALX SE High Level programming task
+This repo contains task for 0x03. Python - Data Structures: Lists, Tuples
